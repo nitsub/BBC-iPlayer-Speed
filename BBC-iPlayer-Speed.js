@@ -2,6 +2,8 @@
 // @name     BBC iPlayer Speed
 // @description Lets you change the speed of BBC iPlayer playback in the browser, using a userscript manager
 // @version  1
+// @author Nitsub
+// @license MIT
 // @grant    none
 // ==/UserScript== 
 var observer = new MutationObserver(resetTimer);
